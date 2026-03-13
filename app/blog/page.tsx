@@ -13,7 +13,7 @@ export default function BlogPage() {
       {/* Content */}
       <section className="max-w-3xl mx-auto py-20 px-6 text-center">
         <h1 className="text-5xl font-bold mb-6 tracking-tighter">Blog</h1>
-        <p className="mb-10 text-gray-600">Building and advising companies in consumer and retail.</p>
+        <p className="mb-10 text-gray-600">Documenting my thoughts.</p>
         
         {/* Simple iframe for Substack */}
         <div className="w-full border border-gray-100 rounded-lg overflow-hidden">
