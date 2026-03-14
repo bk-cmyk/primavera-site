@@ -5,7 +5,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Primavera Ventures",
-  description: "Building consumer products, wellness, and digital health companies.",
+  description: "Building consumer-facing companies.",
 };
 
 export default function RootLayout({
