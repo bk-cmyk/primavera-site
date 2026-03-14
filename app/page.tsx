@@ -18,7 +18,7 @@ export default function Home() {
           Primavera Ventures
         </h1>
         <p className="text-xl md:text-2xl font-light max-w-2xl leading-relaxed opacity-90">
-          Building and advising consumer and eCommerce companies 
+          Building and advising consumer-facing companies 
         </p>
       </div>
 
