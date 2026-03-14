@@ -5,19 +5,19 @@ export default function ProjectsPage() {
     {
       title: "Workout Generator",
       tech: "Python / Streamlit",
-      description: "A custom tool for generating structured fitness routines based on HYROX and marathon training needs.",
+      description: "A new day. A new workout.",
       link: "https://bonnies-workouts.streamlit.app/" // Link to your Streamlit cloud URL
     },
     {
       title: "Holiday Deal Finder",
-      tech: "Python / Data Science",
+      tech: "Python / API Aggregator",
       description: "Find the best Black Friday deals across Amazon and Walmart.",
       link: "https://holiday-deal-finder.streamlit.app/"
     }
   ];
 
   const advisory = [
-    "Advised $10M US oral care company on licensing contract to a multi-national CPG company.",
+    "Advised $10M US personal care company on licensing contract to a multi-national CPG company.",
     "Advised $50M digital health startup in capital raising process.",
     "Identified new business opportunities for $2M yoga studio chain based in NYC.",
   ];
